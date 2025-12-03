@@ -8,6 +8,7 @@
         <LangVersion>10.0</LangVersion>
         <Optimize>False</Optimize>
         <DebugType>embedded</DebugType>
+        <LangVersion>preview</LangVersion>
     </PropertyGroup>
     <ItemGroup>
         <Content Include=".github\workflows\build.yml" />

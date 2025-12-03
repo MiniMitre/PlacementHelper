@@ -7,7 +7,6 @@ using BTD_Mod_Helper.Extensions;
 using Il2Cpp;
 using Il2CppAssets.Scripts.Models.Towers.Behaviors;
 using Il2CppAssets.Scripts.Simulation.Towers;
-using Il2CppAssets.Scripts.Unity.UI_New.InGame;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using PlacementHelper;
